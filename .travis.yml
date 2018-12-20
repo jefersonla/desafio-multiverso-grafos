@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - 8.11.0
+script:
+  - "npm run lint"
+  - "npm run test"
+  - "npm run coverage1"
+  - "npm run coverage2"
+  - "npm run build"
+
