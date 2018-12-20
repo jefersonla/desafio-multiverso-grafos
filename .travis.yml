@@ -4,7 +4,5 @@ node_js:
 script:
   - "npm run lint"
   - "npm run test"
-  # - "npm run coverage1"
-  - "npm run coverage2"
   - "npm run build"
 
