@@ -1,0 +1,15 @@
+{
+  "name": "Rotas Estelares",
+  "description": "Rotas estelares é uma aplicação que visa a utilização de algoritmos de pathfinding para encontrar o menor caminho entre dois vértices (as vezes com algum conjunto de restrição) em um grafo direcionado qualquer. O objetivo desta aplicação é o de disponibilizar a API e uma interface básica para que seja possível extender a aplicação para outros fins que não só sejam o de resolver o desafio das rotas nos mapas 'estelares'",
+  "repository": "https://github.com/jefersonla/desafio-multiverso-grafos",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": [
+    "pathfinding",
+    "grafos",
+    "graph",
+    "rotas",
+    "menor-caminho",
+    "djikstra"
+  ],
+  "image": "heroku/nodejs"
+}
