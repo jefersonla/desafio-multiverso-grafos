@@ -3,8 +3,7 @@
 Descobre rotas interestelares utilizando buracos de minhoca na velocidade da luz.
 
 [![Build Status](https://travis-ci.org/jefersonla/desafio-multiverso-grafos.svg?branch=master)](https://travis-ci.org/jefersonla/desafio-multiverso-grafos)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0c7890cef5c24b6dae77931393977185)](https://www.codacy.com/app/oi_je/desafio-multiverso-grafos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jefersonla/desafio-multiverso-grafos&amp;utm_campaign=Badge_Grade)
-[![Codacy](https://api.codacy.com/project/badge/coverage/0c7890cef5c24b6dae77931393977185)](https://www.codacy.com/app/jefersonla/desafio-multiverso-grafos)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11584b568b4b4e09a03b5f743ea34575)](https://www.codacy.com/app/oi_je/desafio-multiverso-grafos?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jefersonla/desafio-multiverso-grafos&amp;utm_campaign=Badge_Grade)
 [![David](https://img.shields.io/david/dev/jefersonla/desafio-multiverso-grafos.svg)](https://david-dm.org/jefersonla/desafio-multiverso-grafos)
 [![David](https://img.shields.io/david/peer/jefersonla/desafio-multiverso-grafos.svg)](https://david-dm.org/jefersonla/desafio-multiverso-grafos)
 ![Github](https://img.shields.io/github/commit-activity/y/jefersonla/desafio-multiverso-grafos.svg)

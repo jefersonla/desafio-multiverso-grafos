@@ -7,8 +7,6 @@
     "dev": "nodemon --watch 'src/' --exec 'ts-node src/entry.ts' -e ts",
     "build": "tsc",
     "prod": "npm run build && node dist/entry.js",
-    "coverage1": "jest --coverage --coverageReporters=text-lcov | coveralls",
-    "coverage2": "jest --coverage && cat ./coverage/lcov.info | codacy-coverage",
     "test": "jest",
     "lint": "tslint -c tslint.json 'src/**/*.ts'"
   },
