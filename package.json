@@ -1,0 +1,28 @@
+{
+  "name": "rotas-estelares",
+  "version": "0.1.0",
+  "description": "Rotas estelares é uma aplicação que visa a utilização de algoritmos de pathfinding para encontrar o menor caminho entre dois vértices (as vezes com algum conjunto de restrição) em um grafo direcionado qualquer. O objetivo desta aplicação é o de disponibilizar a API e uma interface básica para que seja possível extender a aplicação para outros fins que não só sejam o de resolver o desafio das rotas nos mapas 'estelares'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefersonla/desafio-multiverso-grafos.git"
+  },
+  "keywords": [
+    "pathfinding",
+    "grafos",
+    "graph",
+    "rotas",
+    "menor-caminho",
+    "djikstra"
+  ],
+  "author": "Jeferson Lima <oi_je@hotmail.com> (https://github.com/jefersonla)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefersonla/desafio-multiverso-grafos/issues"
+  },
+  "homepage": "https://github.com/jefersonla/desafio-multiverso-grafos#readme"
+}
