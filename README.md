@@ -27,6 +27,8 @@ Rotas estelares é uma aplicação que visa a utilização de algoritmos de path
 Este projeto pode ser enviado para o Firebase Cloud Functions (desde que inicializado o projeto), 
 Heroku e similares. Algumas pequenas modificações podem ser necessárias a depender do PAAS (Platform as a Service) utilizado.
 
+... TODO
+
 ### Deploy para o Heroku
 
 ```
@@ -37,6 +39,17 @@ $ heroku open
 ou
 
 [![Deploy para Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+## Documentação
+
+Para mais informações a cerca das teconlogias utilizadas nesse projeto (node.js, express, JavaScript, TypeScript, REST, ...) consultar os links abaixo:
+
+- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
+- [Node js e typescript](https://medium.com/@oieduardorabelo/node-js-e-typescript-o-como-e-com-testes-7affce2c02a8)
+- [O que é REST e RESTful?](https://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful)
+- [Express.js Framework](https://expressjs.com/pt-br/)
+
 ## Suporte e Desenvolvimento
 
 Desenvolvido por **Jeferson Lima** (*[@jefersonla](https://github.com/jefersonla)*). 
