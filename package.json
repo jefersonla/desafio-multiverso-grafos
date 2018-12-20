@@ -7,7 +7,7 @@
     "dev": "nodemon --watch 'src/' --exec 'ts-node src/entry.ts' -e ts",
     "build": "tsc",
     "prod": "npm run build && node dist/entry.js",
-    "test": "jest",
+    "test": "jest --no-cache",
     "lint": "tslint -c tslint.json 'src/**/*.ts'"
   },
   "repository": {
@@ -47,9 +47,10 @@
   },
   "jest": {
     "transform": {
-      "^.+\\.spec.ts$": "ts-jest"
+      "^.+\\.spec.ts$": "ts-jest",
+      "^.+\\.test.ts$": "ts-jest"
     },
-    "testRegex": "\\.spec\\.ts",
+    "testRegex": "\\.(spec|test)\\.ts",
     "moduleFileExtensions": [
       "ts",
       "tsx",
