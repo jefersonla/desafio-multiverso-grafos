@@ -7,7 +7,6 @@ Descobre rotas interestelares utilizando buracos de minhoca na velocidade da luz
 [![David](https://img.shields.io/david/dev/jefersonla/desafio-multiverso-grafos.svg)](https://david-dm.org/jefersonla/desafio-multiverso-grafos)
 [![Known Vulnerabilities](https://snyk.io/test/github/jefersonla/desafio-multiverso-grafos/badge.svg)](https://snyk.io/test/github/jefersonla/desafio-multiverso-grafos)
 [![David](https://img.shields.io/david/peer/jefersonla/desafio-multiverso-grafos.svg)](https://david-dm.org/jefersonla/desafio-multiverso-grafos)
-![Github](https://img.shields.io/github/commit-activity/y/jefersonla/desafio-multiverso-grafos.svg)
 [![Github](https://img.shields.io/github/license/jefersonla/desafio-multiverso-grafos.svg)](https://github.com/jefersonla/desafio-multiverso-grafos)
 
 ## Introdução
@@ -41,6 +40,8 @@ ou
 [![Deploy para Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Documentação
+
+Toda a documentação gerada para essa aplicação pode ser encontrada na página [Rotas Estelares](https://jefersonla.github.io/jefersonla/desafio-multiverso-grafos).
 
 Para mais informações a cerca das teconlogias utilizadas nesse projeto (node.js, express, JavaScript, TypeScript, REST, ...) consultar os links abaixo:
 
