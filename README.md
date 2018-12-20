@@ -15,8 +15,21 @@ Descobre rotas interestelares utilizando buracos de minhoca na velocidade da luz
 
 Rotas estelares é uma aplicação que visa a utilização de algoritmos de pathfinding para encontrar o menor caminho entre dois vértices (as vezes com algum conjunto de restrição) em um grafo direcionado qualquer. O objetivo desta aplicação é o de disponibilizar a API e uma interface básica para que seja possível extender a aplicação para outros fins que não só sejam o de resolver o desafio das rotas nos mapas 'estelares'
 
+## Instalação
+
+... TODO
+
+## Funcionamento
+
+... TODO
+
 ## Suporte e Desenvolvimento
 
-Desenvolvido por Jeferson Lima 
+Desenvolvido por **Jeferson Lima** (*[@jefersonla](https://github.com/jefersonla)*). 
+
+Para maiores informações e/ou suporte a cerca da aplicação entrar em contato com oi_je@hotmail.com ou je.myandroid@gmail.com.
+
 
 ![Github](https://img.shields.io/github/followers/jefersonla.svg?label=Follow&style=social)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
