@@ -1,8 +1,9 @@
-import express from "express";
+import express from 'express';
+
 const server = express();
 
-server.get("/", (_, res) => {
-    res.send("Hello ts-node!");
+server.get('/', (_, res) => {
+    res.send('Hello ts-node!');
 });
 
 export default server;

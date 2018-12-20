@@ -8,7 +8,6 @@ Descobre rotas interestelares utilizando buracos de minhoca na velocidade da luz
 [![David](https://img.shields.io/david/dev/jefersonla/desafio-multiverso-grafos.svg)](https://david-dm.org/jefersonla/desafio-multiverso-grafos)
 [![David](https://img.shields.io/david/peer/jefersonla/desafio-multiverso-grafos.svg)](https://david-dm.org/jefersonla/desafio-multiverso-grafos)
 ![Github](https://img.shields.io/github/commit-activity/y/jefersonla/desafio-multiverso-grafos.svg)
-[![Github](https://img.shields.io/github/commit-status/jefersonla/desafio-multiverso-grafos/master/79c0703854090315218f2ba7534cfc0a97910f1a.svg)](https://github.com/jefersonla/desafio-multiverso-grafos)[![David](https://img.shields.io/david/jefersonla/desafio-multiverso-grafos.svg)](https://david-dm.org/jefersonla/desafio-multiverso-grafos)
 [![Github](https://img.shields.io/github/license/jefersonla/desafio-multiverso-grafos.svg)](https://github.com/jefersonla/desafio-multiverso-grafos)
 
 ## Introdução
