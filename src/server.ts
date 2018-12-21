@@ -1,9 +1,23 @@
 import express from 'express';
 
-const server = express();
+/**
+ * Aplicação do Express a ser exportada
+ */
+export const api = express();
 
-server.get('/', (_, res) => {
-    res.send('Hello ts-node!');
-});
+/**
+ * ------------------------ Definição de rotas ------------------------
+ */
 
-export default server;
+// GET /
+// Rota inicial para acesso de dados
+api.get('/');
+
+// TODO
+
+/**
+ * --------------------------------------------------------------------
+ */
+
+// Default export
+export default api;
