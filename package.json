@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "nodemon --watch 'src/' --exec 'ts-node src/entry.ts' -e ts",
     "build": "tsc",
-    "prod": "npm run build && node dist/entry.js",
+    "postinstall": "npm run build",
+    "serve": "node dist/entry.js",
     "test": "jest --no-cache",
     "lint": "tslint -c tslint.json 'src/**/*.ts'"
   },
