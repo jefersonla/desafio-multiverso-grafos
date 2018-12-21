@@ -41,7 +41,7 @@ ou
 
 ## Documentação
 
-Toda a documentação gerada para essa aplicação pode ser encontrada na página [Rotas Estelares](https://jefersonla.github.io/jefersonla/desafio-multiverso-grafos).
+Toda a documentação gerada para essa aplicação pode ser encontrada na página [Rotas Estelares](https://jefersonla.github.io/desafio-multiverso-grafos/).
 
 Para mais informações a cerca das teconlogias utilizadas nesse projeto (node.js, express, JavaScript, TypeScript, REST, ...) consultar os links abaixo:
 
