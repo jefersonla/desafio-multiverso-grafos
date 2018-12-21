@@ -1,4 +1,6 @@
 import * as path from 'path';
+import helmet from 'helmet';
+import compression from 'compression';
 import express from 'express';
 import api from './server';
 import { ApiConstants } from './constants/api_constants';
@@ -10,12 +12,17 @@ const APP_PORT: string = process.env.PORT || AppConstants.APP_PORT;
 // Define aplicação express
 const app = express();
 
+// Adiciona alguns helpers para ajudar na limpeza do código
+app.use(helmet());
+app.use(compression());
+
 // Configura o path para execução da sub-aplicação express
 app.use(`/api/${ApiConstants.API_VERSION}`, api);
 
 // Configurações de views e conteudo estático
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
+app.set('trust proxy', true);
 
 // Adiciona configuração do path principal
 app.get('/', (_, res) => {
