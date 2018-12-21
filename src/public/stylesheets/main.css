@@ -4,44 +4,41 @@ html, body {
     padding: 0;
 }
 
-/* Configurações do Jumbotron */
-.jumbotron {
-    background: #532F8C;
-    color: white;
-    padding-bottom: 80px;
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
 }
 
-.jumbotron .btn-primary {
-    background: #845ac7;
-    border-color: #845ac7;
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
 }
 
-.jumbotron .btn-primary:hover {
-    background: #7646c1;
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
 }
 
-.jumbotron p {
-    color: #d9ccee;
-    max-width: 75%;
-    margin: 1em auto 2em;
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+    padding: 60px 15px 0;
 }
 
-.navbar + .jumbotron {
-    margin-top: -20px;
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
-.jumbotron .lang-logo {
-    display: block;
-    background: #B01302;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
-    border: 2px solid white;
+code {
+    font-size: 80%;
 }
-
-.jumbotron .lang-logo img {
-    max-width: 100%;
-}
-

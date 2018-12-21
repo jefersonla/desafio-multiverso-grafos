@@ -19,6 +19,9 @@ app.use(compression());
 // Configura o path para execução da sub-aplicação express
 app.use(`/api/${ApiConstants.API_VERSION}`, api);
 
+// Libera conteúdo estatico na aplicação
+app.use(express.static(__dirname + '/public'));
+
 // Configurações de views e conteudo estático
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
